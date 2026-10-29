@@ -51,5 +51,5 @@ The project analyzes over ₹6.16 million in e-commerce revenue using DAX measur
 - Exploratory sales performance analysis
 
 ## 👨‍💻 Author
+
 **Harsh Modhiya**  
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
