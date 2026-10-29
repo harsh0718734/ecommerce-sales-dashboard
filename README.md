@@ -36,6 +36,7 @@ The project analyzes over ₹6.16 million in e-commerce revenue using DAX measur
 
 ## 📁 Project Files
 - `E - COMMERCE PROJECT.pbix` — Power BI dashboard file
+- 'cipkart_ecommerce_data..csv' - POWER BI Dataset
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
